@@ -1,5 +1,8 @@
 # antlr-calc-ex
-How to use antlr to create go.
+
+How to use antlr to create go. Based off of https://github.com/antlr/antlr4/blob/master/doc/go-target.md
+and https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/
+
 ## Setup Project
 1. Create app/example1 dir
 2. Create app/example2 dir
